@@ -2,6 +2,7 @@ name: "Christopher's Blog"
 favicon: null
 layout_spectrum: 0.53108
 typography_spectrum: 0.40578151238150895
+title: This is a pretend site for my blog.
 cta:
   domain: null
   bucket: null
