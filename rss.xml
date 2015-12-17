@@ -4,8 +4,22 @@
         <description><![CDATA[This is a pretend site for my blog.]]></description>
         <link>https://thegrid.ai/christopher-s-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 02:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 02:37:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-s-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Miami Underwater]]></title>
+            <description><![CDATA[<article><h1>Miami Underwater</h1><p>The city of Miami Beach floods on such a predictable basis that if, out of curiosity or sheer perversity, a person wants to she can plan a visit to coincide with an inundation. Knowing the tides would be high around the time of the "super blood moon," in late September, I arranged to meet up with Hal Wanless, the chairman of the University of Miami's geological-sciences department.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cc27630252d331a24f4ad3f78917140f4d5b7a2.jpg"></article>]]></description>
+            <link>http://www.newyorker.com/magazine/2015/12/21/the-siege-of-miami</link>
+            <guid isPermaLink="false">392b1b2f-e3ae-4b33-bb3a-79eaeabe3b87</guid>
+            <pubDate>Thu, 17 Dec 2015 02:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Connect with your friends - and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.</p>]]></description>
+            <link>https://twitter.com/</link>
+            <guid isPermaLink="false">fd7862de-0448-4efc-b9d9-335f26289728</guid>
+            <pubDate>Thu, 17 Dec 2015 02:36:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Connect with your friends - and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.</p>]]></description>
@@ -50,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[Airbus And Qatar Airways Debut A Carbon Fiber Plane That Curbs Jet Lag]]></title>
-            <description><![CDATA[<article><h1>Airbus And Qatar Airways Debut A Carbon Fiber Plane That Curbs Jet Lag</h1><p>From labyrinthine security checkpoints to cramped seats and scant overhead storage space, air travel ranks among the most grueling experiences out there (unless you're one of the rarefied few who spring for first class). With its A350 XWB jet, Airbus integrates the latest design and engineering tricks to quell many of the headaches for flyers, carriers, and pilots.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27bc2e816406a12427ae509cfa02177b9913f963.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Airbus And Qatar Airways Debut A Carbon Fiber Plane That Curbs Jet Lag</h1><p>From labyrinthine security checkpoints to cramped seats and scant overhead storage space, air travel ranks among the most grueling experiences out there (unless you're one of the rarefied few who spring for first class). With its A350 XWB jet, Airbus integrates the latest design and engineering tricks to quell many of the headaches for flyers, carriers, and pilots.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74ee40415a2824c51ba7c63155269b174fcca7d7.jpg"></article>]]></description>
             <link>http://www.fastcodesign.com/3054686/terminal-velocity/airbus-and-qatar-airways-debut-a-carbon-fiber-plane-that-quells-jet-lag</link>
             <guid isPermaLink="false">1494757a-a7c1-44e0-86fc-d96baf6f1dd7</guid>
             <pubDate>Thu, 17 Dec 2015 02:36:21 GMT</pubDate>
@@ -61,13 +75,6 @@
             <link>http://qz.com/574923/the-fed-just-raised-rates-for-the-first-time-since-2006/</link>
             <guid isPermaLink="false">915a78e8-7657-4b20-bd78-4d0f4825dc20</guid>
             <pubDate>Thu, 17 Dec 2015 02:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is my blog post.]]></title>
-            <description><![CDATA[<article><h1>This is my blog post.</h1><p>This is my first of many blog posts. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0755952641794fc5834ab2c53503c45e0383cb3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/christopher-s-blog/this-is-my-blog-post/index.html</link>
-            <guid isPermaLink="false">0b314ca7-49bd-465b-a410-e177536dcc5d</guid>
-            <pubDate>Tue, 27 Oct 2015 22:12:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
