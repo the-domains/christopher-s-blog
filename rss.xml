@@ -4,7 +4,7 @@
         <description><![CDATA[This is a pretend site for my blog.]]></description>
         <link>https://thegrid.ai/christopher-s-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 04:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 04:21:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-s-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test post. ]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.newyorker.com/magazine/2015/12/21/the-siege-of-miami</link>
             <guid isPermaLink="false">392b1b2f-e3ae-4b33-bb3a-79eaeabe3b87</guid>
             <pubDate>Thu, 17 Dec 2015 02:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Connect with your friends - and other fascinating people. Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle.</p>]]></description>
+            <link>https://twitter.com/</link>
+            <guid isPermaLink="false">13dcb202-e4e9-4114-8745-4d32e003a6c2</guid>
+            <pubDate>Thu, 17 Dec 2015 02:36:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pre-Fab "Star Wars: The Force Awakens" - The New Yorker]]></title>
