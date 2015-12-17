@@ -4,8 +4,15 @@
         <description><![CDATA[This is a pretend site for my blog.]]></description>
         <link>https://thegrid.ai/christopher-s-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 02:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 02:41:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/christopher-s-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test post. ]]></title>
+            <description><![CDATA[<article><h1>Test post. </h1><p>WAH, Blogs!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0755952641794fc5834ab2c53503c45e0383cb3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/christopher-s-blog/this-is-my-blog-post/index.html</link>
+            <guid isPermaLink="false">0b314ca7-49bd-465b-a410-e177536dcc5d</guid>
+            <pubDate>Thu, 17 Dec 2015 02:41:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miami Underwater]]></title>
             <description><![CDATA[<article><h1>Miami Underwater</h1><p>The city of Miami Beach floods on such a predictable basis that if, out of curiosity or sheer perversity, a person wants to she can plan a visit to coincide with an inundation. Knowing the tides would be high around the time of the "super blood moon," in late September, I arranged to meet up with Hal Wanless, the chairman of the University of Miami's geological-sciences department.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4bf2f31f4e398ac29fb74f9637e7373449938b7.jpg"></article>]]></description>
@@ -39,13 +46,6 @@
             <description><![CDATA[<article><h1>The Pre-Fab "Star Wars: The Force Awakens" - The New Yorker</h1><p>For better and worse, "Star Wars: The Force Awakens" is a work of directorial authorship. J. J. Abrams has long been channelling the spirit of Steven Spielberg, and here he splices the Spielbergian gene into George Lucas's mythology. That's not an inherently bad thing-if it's done by Steven Spielberg.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f72e3978dfee7fabc9d6f42c69bfa3f6d2a9646.jpg"></article>]]></description>
             <link>http://www.newyorker.com/culture/cultural-comment/the-pre-fab-star-wars-the-force-awakens</link>
             <guid isPermaLink="false">9a246107-91a9-4810-8537-fbdf51fce005</guid>
-            <pubDate>Thu, 17 Dec 2015 02:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://h.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2015/12/3054659-poster-p-2-for-designers-learning-to-code-isnt-a-yes-no-question.jpg">]]></description>
-            <link>https://thegrid.ai/christopher-s-blog/99fc26f2-35a2-4859-bc3d-2c983bcf8fa6/index.html</link>
-            <guid isPermaLink="false">99fc26f2-35a2-4859-bc3d-2c983bcf8fa6</guid>
             <pubDate>Thu, 17 Dec 2015 02:36:21 GMT</pubDate>
         </item>
         <item>
