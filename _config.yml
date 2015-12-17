@@ -1,6 +1,6 @@
 name: "Christopher's Blog"
 favicon: null
-layout_spectrum: 0.39148
+layout_spectrum: 0.66527
 typography_spectrum: 0.17772
 title: This is a pretend site for my blog.
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#158cc4'
-    - '#f6f1eb'
-    - '#081214'
-    - '#504845'
-    - '#d0795e'
-  brandStrength: 0.1875
+    - '#b2bcb3'
+    - '#5e807c'
+    - '#043a2e'
+    - '#bfdfce'
+    - '#000d0d'
+  brandStrength: 0.125
   lightness: 1
   saturation: 0.875
   rhythmicContrast: 1
