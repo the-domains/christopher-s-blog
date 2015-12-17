@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[This is a pretend site for my blog.]]></title>
+        <description><![CDATA[This is a pretend site for my blog.]]></description>
+        <link>https://thegrid.ai/christopher-s-blog/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 02:25:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christopher-s-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Design</p>]]></description>
+            <link>https://thegrid.ai/christopher-s-blog/design/index.html</link>
+            <guid isPermaLink="false">5e9b62cb-5bdf-4842-b25c-9cbf0e317702</guid>
+            <pubDate>Tue, 27 Oct 2015 22:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is my blog post.]]></title>
+            <description><![CDATA[<article><h1>This is my blog post.</h1><p>This is my first of many blog posts. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0755952641794fc5834ab2c53503c45e0383cb3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/christopher-s-blog/this-is-my-blog-post/index.html</link>
+            <guid isPermaLink="false">0b314ca7-49bd-465b-a410-e177536dcc5d</guid>
+            <pubDate>Tue, 27 Oct 2015 22:12:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
